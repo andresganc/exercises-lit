@@ -1,2 +1,4 @@
-# course-lit
-NC Course Lit - Web Components with Lit
+
+# EXERCISES LIT
+
+Exercises Lit - Web Components
